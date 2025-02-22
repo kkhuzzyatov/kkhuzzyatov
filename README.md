@@ -10,7 +10,7 @@
 
 ## 😇 About me
 
-- 👨‍🎓 I’m currently university student studying software engineering <br>
+- 🏫 I’m currently university student studying software engineering <br>
 - ⚡ Additional fact: I speak English(B2) <br>
 
 ## 🛠️ Languages and Tools
