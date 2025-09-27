@@ -3,9 +3,6 @@
   
   <h4>Backend Developer with 1+ year of experience</h4>
 
-  <a href="https://t.me/kamil_java_dev">
-    <img src="https://img.shields.io/badge/Join%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
-  </a>
 </div>
 
 ## 🛠️ Languages and Tools
