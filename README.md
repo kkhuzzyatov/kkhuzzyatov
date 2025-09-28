@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Kamil</h1>
   
-  <h4>Backend Developer with 1+ year of experience</h4>
+  <h4>Backend Developer</h4>
 
 </div>
 
